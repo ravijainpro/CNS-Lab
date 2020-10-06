@@ -20,7 +20,7 @@
 
 #### Week 4
 1. DES Encrypt 
-3. DES Decrypt
+2. DES Decrypt
 
 #### Week5 
 1. Triple DES Encrypt
