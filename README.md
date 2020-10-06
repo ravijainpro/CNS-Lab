@@ -10,3 +10,19 @@
 2. Implementation of Affine Cipher
 3. Brute-Force and Know Plain Text Attacks on Affine Cipher
 4. Implementation of Transposition Cipher
+
+
+#### Week 3
+1. RC4 Encrypt
+2. RC4 Decrypt
+3. BruteForce Attack
+4. Known Plain Text Attack
+
+#### Week 4
+1. DES Encrypt 
+3. DES Decrypt
+
+#### Week5 
+1. Triple DES Encrypt
+2. Triple DES Decrypt
+3. Round Keys for Weak Keys
