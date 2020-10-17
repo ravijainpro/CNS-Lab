@@ -26,3 +26,11 @@
 1. Triple DES Encrypt
 2. Triple DES Decrypt
 3. Round Keys for Weak Keys
+
+#### Week6 
+1. Implement AES
+2. Analyze the possibilities of perpetrating an attack on AES
+
+#### Week7 
+1. Implement RSA
+2. Perform low exponent attack on RSA
