@@ -54,21 +54,18 @@ How to implement Elliptic Curve Cryptography? (Possible Ways)
 
 #### Week 11 (Extended)
 3.  A network in which each node can act as a client or server for the other computers in the network, allowing shared access to various resources such as files, peripherals, etc without the need for a central server.
-• Design and code security association/agreement between server and client b.
-• Procedure for key management c.
-• Design and code for authentication between server and client vice versa
+###### a. Design and code security association/agreement between server and client b.
+###### b. Procedure for key management c.
+###### c. Design and code for authentication between server and client vice versa
 
 #### Week 12
 1. Design and implement a communication system with the following details
-• The users are divided logically into groups.
-• Each user can have many public and private key pairs.
-• Each user maintains a table in which public key is stored.
-• Each user maintains private keys in another table along with the id of the public key
-which is in encrypted form.
-• The encryption and decryption is based on the public key id sent along with the cipher
-text. Use any public key cryptography for encryption and decryption
+###### a. The users are divided logically into groups.
+###### b. Each user can have many public and private key pairs.
+###### c. Each user maintains a table in which public key is stored.
+###### d. Each user maintains private keys in another table along with the id of the public key which is in encrypted form.
+###### e. The encryption and decryption is based on the public key id sent along with the cipher text. Use any public key cryptography for encryption and decryption
 2. Explore Packet sniffing tools and make a report with practical screenshots possibly
 
 #### Week 13
 Implement Kerberos Authentication Protocol
-
