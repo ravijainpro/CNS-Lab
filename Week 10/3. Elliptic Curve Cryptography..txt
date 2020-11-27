@@ -1,0 +1,13 @@
+Steps to implementation Elliptic Curve Cryptography:
+
+1)Implementing Elliptic Curve Operations:
+	- Point Negation
+	- Point Doubling
+	- Point Addition
+
+2) ECIES Parameter Generation Functions:
+	- Scalar Multiple
+
+3) Encryption and Decryption:
+	- Encryption Function
+	- Decryption Function

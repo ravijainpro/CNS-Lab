@@ -1,0 +1,9 @@
+- Elgamal Algorithm strength is a result of DLP (Discrete Logarithm Problem)
+- In this Cryptog system, each user gets a private key X along with a public key having three components 
+	− Prime modulus P 
+	- Generator G
+	- Mathematical representation: Y = GX mod P.
+- Secure key length at present is anything greater than 1024 bits. 
+- For super secure systems 2048 bits length keys are used. 
+- Elgamal is a slow algorithm. Hence, it is primarily used for key authentication protocols.
+- Elliptic Curve variants of Elgamal algorithm is becoming popular due to higher processing efficiency.
